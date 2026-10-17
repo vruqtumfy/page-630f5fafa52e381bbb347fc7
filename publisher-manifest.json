@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c2b4665564f7e5f59799e1c4",
+  "owner": "vruqtumfy",
+  "repo": "page-630f5fafa52e381bbb347fc7",
+  "title": "K机场(Godzilla)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "630f5fafa52e381bbb347fc7",
+      "a": "K机场(Godzilla)",
+      "b": "",
+      "entity": "K机场(Godzilla)",
+      "brand": "K机场(Godzilla)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2c55d95a676c3df5708c5acac452ad625874a3b3fa3d66b9a35a76b2ee7ba53c",
+      "content": {
+        "keyword1": "K机场(Godzilla)",
+        "keyword2": "",
+        "primary_entity": "K机场(Godzilla)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "K机场(Godzilla)为您提供每月高速流量、流媒体原生解锁和多设备在线支持的机场订阅方案。基础版、旗舰版与团队版任您选择，一键导入Clash订阅，畅享全球节点自由网络。",
+          "AI_DESCRIPTION": "K机场(Godzilla)为您提供每月高速流量、流媒体原生解锁和多设备在线支持的机场订阅方案。基础版、旗舰版与团队版任您选择，一键导入Clash订阅，畅享全球节点自由网络。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        700&display=swap');\n        \n        :root {--black: #0f0f0f;--fluo-green: #00ff9d;--white: #ffffff;--gray-light: #f8f8f8}\n        \n        * {margin: 0;padding: 0;box-sizing: border-box}\n        \n        body {font-family: 'Noto Sans SC', system-ui, sans-serif;background: var(--black);color: var(--white);line-height: 1.7;overflow-x: hidden}\n        \n        header {position: fixed;top: 0;left: 0;right: 0;z-index: 1000;background: rgba(15, 15, 15, 0.95);backdrop-filter: blur(20px)}\n        \n        nav {display: flex;align-items: center;justify-content: space-between;padding: 1.2rem 5%;max-width: 1400px;margin: 0 auto}\n        \n        .logo {font-size: 1.8rem;font-weight: 700;letter-spacing: -1px;color: var(--fluo-green)}\n        \n        .nav-links {display: flex;gap: 2.5rem;list-style: none}\n        \n        .nav-links a {color: var(--white);text-decoration: none;font-weight: 500;transition: color 0.3s}\n        \n        .nav-links a:hover {color: var(--fluo-green)}\n        \n        .hamburger {display: none;font-size: 1.8rem;cursor: pointer}\n        \n        .hero {height: 100vh;min-height: 700px;display: flex;align-items: center;position: relative;color: var(--white)}\n        \n        .hero-content {max-width: 1400px;margin: 0 5%;display: grid;grid-template-columns: 1fr 1fr;gap: 4rem;align-items: center}\n        \n        .hero-text h1 {font-size: clamp(3.5rem, 8vw, 7rem);line-height: 0.9;margin-bottom: 1rem;letter-spacing: -4px}\n        \n        .hero-text p {font-size: 1.4rem;max-width: 420px;margin-bottom: 2.5rem;opacity: 0.95}\n        \n        .hero-info {background: rgba(15, 15, 15, 0.8);border-radius: 20px;padding: 2rem;box-shadow: 0 20px 40px rgba(0, 255, 157, 0.15)}\n        \n        .hero-info h2 {font-size: 1.8rem;margin-bottom: 1.5rem;color: var(--fluo-green)}\n        \n        .btn {display: inline-block;background: var(--fluo-green);color: var(--black);padding: 1rem 2.5rem;border-radius: 50px;font-weight: 700;text-decoration: none;transition: all 0.3s;box-shadow: 0 0 25px rgba(0, 255, 157, 0.4)}\n        \n        .btn:hover {transform: translateY(-4px);box-shadow: 0 0 40px rgba(0, 255, 157, 0.6)}\n        \n        .section {padding: 100px 5%;max-width: 1400px;margin: 0 auto}\n        \n        h2 {font-size: 2.8rem;text-align: center;margin-bottom: 3rem;color: #fff}\n        \n        .faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 3rem;max-width: 1200px;margin: 0 auto}\n        \n        .faq-item {background: #1a1a1a;padding: 2rem;border-radius: 16px;transition: all 0.3s}\n        \n        .faq-item:hover {transform: translateY(-8px);box-shadow: 0 20px 40px rgba(0, 255, 157, 0.1)}\n        \n        .faq-question {font-weight: 700;margin-bottom: 1rem;font-size: 1.25rem;color: var(--fluo-green)}\n        \n        .faq-answer {color: #ddd;font-size: 1.1rem}\n        \n        .plans {display: grid;grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));gap: 3rem;max-width: 1400px;margin: 0 auto}\n        \n        .plan-card {background: #1a1a1a;border-radius: 20px;overflow: hidden;box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);position: relative}\n        \n        .plan-card.featured {border: 4px solid var(--fluo-green);transform: scale(1.05)}\n        \n        .plan-card .header {padding: 2rem 1.5rem 1.5rem;text-align: center}\n        \n        .plan-card .price {font-size: 2.8rem;font-weight: 700;color: var(--fluo-green);margin: 1rem 0}\n        \n        .plan-card .yearly {font-size: 1.1rem;opacity: 0.7}\n        \n        .plan-card .features {padding: 0 1.5rem 2rem}\n        \n        .plan-card ul {list-style: none}\n        \n        .plan-card li {padding: 0.9rem 0;border-bottom: 1px solid #333;font-size: 1.05rem}\n        \n        .plan-card li:last-child {border-bottom: none}\n        \n        footer {background: #0a0a0a;padding: 80px 5% 40px;text-align: center;font-size: 0.95rem;opacity: 0.8}\n        \n        .breadcrumb {display: flex;gap: 0.5rem;font-size: 0.95rem;margin-bottom: 3rem;opacity: 0.85}\n        \n        .breadcrumb a {color: var(--fluo-green);text-decoration: none}\n        \n        @media (max-width: 768px) {\n            .hero-content {grid-template-columns: 1fr;text-align: center}\n            .faq-grid {grid-template-columns: 1fr}\n            .nav-links {display: none}\n            .hamburger {display: block}\n            .hero h1 {font-size: 5rem}\n        }\n    </style>\n    <header>\n        <nav>\n            <div class=\"logo\">K机场(Godzilla)</div>\n            <ul class=\"nav-links\">\n                <li><a href=\"#plans\">套餐</a></li>\n                <li><a href=\"#faq\">FAQ</a></li>\n                <li><a href=\"#clients\">用户故事</a></li>\n            </ul>\n            <div class=\"hamburger\">☰</div>\n        </nav>\n    </header>\n\n    \n    <section class=\"hero\">\n        <div class=\"hero-content\">\n            <div class=\"hero-text\">\n                <h1>用K机场(Godzilla)<br>畅享全球自由</h1>\n                <p>从节点到流量，每一步都经过我们精心打磨。无论你是学生、创作者，还是企业用户，K机场(Godzilla)都能在每一次连接中带给你真实的高速与稳定。</p>\n                <a href=\"#plans\" class=\"btn\">立即选择套餐</a>\n            </div>\n            <div class=\"hero-info\">\n                <h2>为什么选择我们？</h2>\n                <p>每月流量、设备数量、解锁能力全有保障。订阅后直接导入Clash，3秒完成配置。</p>\n                <div>\n                    <div>\n                        <strong>100GB+</strong><br>\n                        <span>基础流量</span>\n                    </div>\n                    <div>\n                        <strong>5台</strong><br>\n                        <span>设备在线</span>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    \n    <section class=\"section\">\n        <div class=\"breadcrumb\">\n            <a href=\"#\">首页</a> &gt; <a href=\"#\">套餐</a> &gt; <a href=\"#\">套餐详情</a>\n        </div>\n        <h2>选择适合您的K机场(Godzilla)套餐</h2>\n        <p>\n            基础版 · 旗舰版 · 团队版<br>\n            每月流量 · 同时在线数 · 节点质量 · 支持企业定制\n        </p>\n    </section>\n\n    \n    <section class=\"section\">\n        <div class=\"plans\">\n            \n            <div class=\"plan-card\">\n                <div class=\"header\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15<span>/月</span></div>\n                    <div class=\"yearly\">按年付仅需 ¥150/年</div>\n                </div>\n                <div class=\"features\">\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n            </div>\n            \n            \n            <div class=\"plan-card featured\">\n                <div class=\"header\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35<span>/月</span></div>\n                    <div class=\"yearly\">按年付仅需 ¥350/年</div>\n                </div>\n                <div class=\"features\">\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n            </div>\n            \n            \n            <div class=\"plan-card\">\n                <div class=\"header\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85<span>/月</span></div>\n                    <div class=\"yearly\">按年付仅需 ¥850/年</div>\n                </div>\n                <div class=\"features\">\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    \n    <section class=\"section\">\n        <h2>已有用户正在使用的真实故事</h2>\n        <p>“K机场(Godzilla)让我在国外出差时也能正常看 YouTube 和 ChatGPT，节点速度让我惊叹。”</p>\n        \n        <div>\n            <div>\n                <p>“学生党，经常远程写论文，需要同时开多个设备。旗舰版的 300GB 流量刚好够用，流媒体解锁也稳定。”</p>\n                <div>— 张伟，大学本科生</div>\n            </div>\n            <div>\n                <p>“团队版让公司员工都能远程办公。VIP 节点和专属路由，让我们企业级访问体验提升了整整一倍。”</p>\n                <div>— 李娜，科技公司 IT 经理</div>\n            </div>\n            <div>\n                <p>“内容创作者，深夜还在刷海外平台。基础版的 100GB 够日常，旗舰版遇到高峰期速度依然保持。”</p>\n                <div>— 王浩，自媒体博主</div>\n            </div>\n        </div>\n    </section>\n\n    \n    <section class=\"section\">\n        <h2>常见问题解答</h2>\n        <div class=\"faq-grid\">\n            \n            <div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">如何为K机场(Godzilla)订阅？</div>\n                    <div class=\"faq-answer\">登录官网，选择套餐并完成支付，即可收到订阅链接。订阅成功后直接导入Clash客户端，即可立即使用。</div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">基础版能否解锁YouTube？</div>\n                    <div class=\"faq-answer\">基础版支持解锁基础流媒体，包括YouTube的部分功能。旗舰版则提供全节点原生解锁。</div>\n                </div>\n            </div>\n            \n            <div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">年付是否划算？</div>\n                    <div class=\"faq-answer\">年付价格仅为月付的10倍，相比月付节省约17%。适合长期使用的用户。</div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">支持多少设备同时在线？</div>\n                    <div class=\"faq-answer\">基础版3台，旗舰版5台，团队版20台。按套餐而定。</div>\n                </div>\n            </div>\n        </div>\n        \n        <div>\n            <a href=\"#\">查看完整订阅教程 →</a>\n        </div>\n    </section>\n\n    \n    <footer>\n        <p>K机场(Godzilla) · 专注科学上网机场订阅</p>\n        <p>订阅后立即获得高品质节点，随时可升级套餐</p>\n    </footer>\n\n    </main>",
+          "hash": "3ce75a8c256f4545fcf38e4646a92adf68824b0bbd0941c40b01338c49cc20d6",
+          "seo": {
+            "title": "K机场(Godzilla) - 科学上网机场订阅",
+            "keywords": "K机场,Godzilla机场,VPN机场,Clash订阅,科学上网,高速流量,流媒体解锁,机场节点",
+            "description": "K机场(Godzilla)为您提供每月高速流量、流媒体原生解锁和多设备在线支持的机场订阅方案。基础版、旗舰版与团队版任您选择，一键导入Clash订阅，畅享全球节点自由网络。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "9760",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xiangruiqilin.cn",
+    "host": "p-fa0c8e0102.xiangruiqilin.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "76f66452d9cad9ee151a8f005848f263e261b33a58e5fcfd7975ea8e425e597c",
+    "sitemap.xml": "b6ff0b156fb936b8bd1f45bb0ffcda6c38a67d793453a3cd37b173a4b9775f76",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c76cad4b3a0b360ece6e59ab5244e7ad9baffe38faa69175efa083c546ebf951",
+    "robots.txt": "e26d6f0593675d07239b027b07090ed2abdb99470fc97624581b27d91bcd6f58",
+    "df2675ace056982f793a4f6ae063037e.txt": "7ddefa13e5004261aba018cdefc596cb2c029548e71974298f1206714debb22a"
+  },
+  "revision": "58fc6abc21b242005fbdc60b9e12601dd1bb7cf91c7c708e2f92d28dff594a75"
+}

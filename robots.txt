@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-fa0c8e0102.xiangruiqilin.cn/sitemap.xml
